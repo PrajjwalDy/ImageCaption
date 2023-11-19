@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247330487797",
+    "project_id": "imagecaption-40888",
+    "storage_bucket": "imagecaption-40888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247330487797:android:d6270fbd83a65d26d734bc",
+        "android_client_info": {
+          "package_name": "com.hindu.imagecaption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdbj6BH7MXSezMX9tkO-ge2wr1PU9tLpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
